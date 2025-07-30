@@ -35,7 +35,9 @@
 
 - 🌱 I’m currently learning Python 🐍 and the banjo 🪕
 - 📫 How to reach me:
+
   Email: haleyjboyle@gmail.com
+
   LinkedIn: https://www.linkedin.com/in/haleyboyle/
   
 
